@@ -14,8 +14,9 @@ This is a simple C program that demonstrates encryption using a bit shift cipher
 ### Compilation:
 You can compile the code using any C compiler. For example, with `gcc`:
 
-bash
-```gcc -o bit_shift_cipher bit_shift_cipher.c```
+```bash
+gcc -o bit_shift_cipher bit_shift_cipher.c
+```
 
 --------------------------------------------------------------------------------------------------------------------------
 # Türkçe
@@ -35,5 +36,6 @@ Bu, bit kaydırma şifreleme tekniği kullanarak şifreleme işlemi yapan basit 
 ### Derleme:
 Kodu herhangi bir C derleyicisi ile derleyebilirsiniz. Örneğin, `gcc` kullanarak:
 
-bash
-```gcc -o bit_shift_cipher bit_shift_cipher.c```
+```bash
+gcc -o bit_shift_cipher bit_shift_cipher.c
+```
